@@ -1,0 +1,17 @@
+{
+  "name": "wp-forge/wp-plugin-check",
+  "description": "Check if a WordPress plugin is compatible with the current environment.",
+  "type": "library",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Micah Wood",
+      "homepage": "https://wpscholar.com"
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "wp-plugin-check.php"
+    ]
+  }
+}
